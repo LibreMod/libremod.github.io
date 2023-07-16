@@ -1,2 +1,2 @@
 # libremod.github.io
-Website
+The repo that hosts the website for the LibreMod org. 
