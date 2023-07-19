@@ -1,4 +1,0 @@
-baseURL = 'https://libremod.github.io'
-languageCode = 'en-us'
-title = 'Libremods Documentation'
-theme = 'acedoc'

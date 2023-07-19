@@ -1,0 +1,3 @@
+# LibreMods Docs
+
+Hello world!
