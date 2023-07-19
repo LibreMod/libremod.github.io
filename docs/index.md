@@ -1,3 +1,3 @@
-# Welcome to LibreMods docs.
+# LibreMods Docs
 
 Hello world!
