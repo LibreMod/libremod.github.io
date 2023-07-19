@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: LibreMods Docs 
+site_url: https://libremod.github.io/
+
+nav:
+    - Home: index.md
+    - About: about.md
+    - Social: social.md
+
+theme: readthedocs

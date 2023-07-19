@@ -1,3 +1,4 @@
 # LibreMods Docs
+Welcome to the project! This site is still a WIP.
 
-Hello world!
+Bla bla say more here
