@@ -1,4 +1,4 @@
-site_name: LibreMods Docs 
+site_name: LibreMods
 site_url: https://libremod.github.io/
 
 nav:
@@ -6,4 +6,4 @@ nav:
     - About: about.md
     - Social: social.md
 
-theme: readthedocs
+theme: material
