@@ -4,6 +4,7 @@ site_url: https://libremod.github.io/
 nav:
     - Home: index.md
     - About: about.md
+    - Community: community.md
     - Social: social.md
 
-theme: material
+theme: readthedocs
